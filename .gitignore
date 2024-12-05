@@ -171,5 +171,6 @@ cython_debug/
 *.pdf
 *.png
 *.jpeg
+*.jpg
 data/
 output/
