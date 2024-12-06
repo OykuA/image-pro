@@ -172,5 +172,7 @@ cython_debug/
 *.png
 *.jpeg
 *.jpg
+*.zip
+*.rar
 data/
 output/
